@@ -1,0 +1,9 @@
+/target
+main.dll
+main.dll.obj
+main.h
+main.lib
+main.lib.obj
+main.pdb
+/.zig-cache
+/zig-out
